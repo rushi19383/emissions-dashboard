@@ -29,6 +29,16 @@ Frontend runs on: `http://localhost:5173`
 **3. Open Browser:**
 Navigate to `http://localhost:5173` to see the dashboard!
 
+## 📸 Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](./screenshots/dashboard-overview.png)
+*Global Emissions Overview showing key metrics, area chart, and sector breakdown*
+
+### Sector Analysis
+![Sector Analysis](./screenshots/sector-analysis.png)
+*Detailed sector comparison with stacked bar chart visualization*
+
 ## 📋 Features
 
 - 📊 **Interactive Dashboard** - Visualize emissions data with charts and graphs
