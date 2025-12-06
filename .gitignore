@@ -1,0 +1,44 @@
+# Backend - Maven
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.idea/
+
+# Frontend - Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Build artifacts
+*.jar
+*.war
+*.ear
+*.class
+
+# Package files
+*.zip
+*.tar.gz
+*.rar
+
