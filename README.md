@@ -32,11 +32,11 @@ Navigate to `http://localhost:5173` to see the dashboard!
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](./screenshots/dashboard-overview.png)
+![Dashboard Overview](./frontend/Screenshots/dashboard-overview.png)
 *Global Emissions Overview showing key metrics, area chart, and sector breakdown*
 
 ### Sector Analysis
-![Sector Analysis](./screenshots/sector-analysis.png)
+![Sector Analysis](./frontend/Screenshots/sector-analysis.png)
 *Detailed sector comparison with stacked bar chart visualization*
 
 ## 📋 Features
